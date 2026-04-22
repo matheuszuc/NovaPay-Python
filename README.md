@@ -98,17 +98,25 @@ Fraude e "Outros" lideram os tickets de suporte. A categoria "Outros" sendo tão
 ```
 fintech/
 │
+│ python/ 
 ├── 01_taxa_cancelamento.py
 ├── 02_inadimplencia_credito.py
 ├── 03_fraudes.py
 ├── 04_insights.py
 │
+│ dados/
 ├── fintech_clients.csv
 ├── fintech_accounts.csv
 ├── fintech_transactions.csv
 ├── fintech_loans.csv
 ├── fintech_support.csv
 │
+│ gráficos/
+├── clientes_por_estado.png
+├── fintech_churn.png
+├── fintech_support.png
+├── marketing.png
+├── taxa_de_cancelamento.png
 └── README.md
 ```
 
