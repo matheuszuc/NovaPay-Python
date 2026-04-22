@@ -8,7 +8,7 @@ O objetivo foi investigar problemas reais de negócio e gerar insights acionáve
 ## 🏢 Contexto
 
 A NovaPay é uma fintech que oferece contas digitais, cartões, PIX, empréstimos e suporte ao cliente.  
-Como analista de dados júnior, recebi três problemas levantados pelo board e precisei investigá-los com SQL e Python.
+Como analista de dados júnior, recebi três problemas levantados pelo board e precisei investigá-los com Python.
 
 ---
 
