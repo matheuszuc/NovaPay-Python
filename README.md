@@ -124,9 +124,9 @@ fintech/
 
 ## 🧠 Aprendizados
 
-- Números absolutos enganam — sempre normalizar antes de comparar grupos
-- Média esconde distribuição — boxplot revela o que `groupby().mean()` não mostra
-- Um bom insight não é só "achei curioso" — precisa ter **recomendação de negócio**
+- Sempre questionar os dados
+- Achei que seria dificil ver como os clientes vieram e quantos saíram mas após algumas tentativas, consegui! Foi mais fácil do que eu pensava
+- Vi que ainda peco muito em fórmulas do pandas mas a minha visão de negócios está cada vez melhor.
 
 ---
 
